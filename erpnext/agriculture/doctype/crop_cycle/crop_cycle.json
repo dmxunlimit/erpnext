@@ -844,7 +844,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2018-06-20 04:41:36.148829", 
+ "modified": "2018-09-06 18:42:52.035478", 
  "modified_by": "Administrator", 
  "module": "Agriculture", 
  "name": "Crop Cycle", 
@@ -897,5 +897,6 @@
  "sort_field": "modified", 
  "sort_order": "DESC", 
  "track_changes": 1, 
- "track_seen": 0
+ "track_seen": 0, 
+ "track_views": 0
 }

@@ -1244,7 +1244,7 @@
  "issingle": 0, 
  "istable": 1, 
  "max_attachments": 0, 
- "modified": "2018-06-15 13:09:57.819520", 
+ "modified": "2018-09-06 18:42:52.808042", 
  "modified_by": "Administrator", 
  "module": "Stock", 
  "name": "Material Request Item", 
@@ -1256,5 +1256,6 @@
  "show_name_in_global_search": 0, 
  "sort_order": "DESC", 
  "track_changes": 1, 
- "track_seen": 0
+ "track_seen": 0, 
+ "track_views": 0
 }
